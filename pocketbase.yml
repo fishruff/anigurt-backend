@@ -1,0 +1,7 @@
+# pocketbase.yml
+port: 8090
+cors:
+  enabled: true
+  origins:
+    - https://anigurt.vercel.app
+    - http://localhost:5173
