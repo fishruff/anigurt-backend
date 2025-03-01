@@ -1,0 +1,2 @@
+# start.sh
+./pocketbase serve
